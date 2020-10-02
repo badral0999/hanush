@@ -824,3 +824,34 @@ section.lazy-placeholder:after {
 .cid-sc7tFz19yJ .mbr-text P {
   text-align: left;
 }
+.cid-scdxJIOJHH {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-scdxJIOJHH .image-block {
+  margin: auto;
+}
+.cid-scdxJIOJHH figcaption {
+  position: relative;
+}
+.cid-scdxJIOJHH figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-scdxJIOJHH .image-block {
+    width: 100% !important;
+  }
+}
+.cid-scdxLpaKdt {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-scdxLpaKdt .mbr-text,
+.cid-scdxLpaKdt blockquote {
+  color: #767676;
+}

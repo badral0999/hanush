@@ -855,3 +855,22 @@ section.lazy-placeholder:after {
 .cid-scdxLpaKdt blockquote {
   color: #767676;
 }
+.cid-scdCwVS6Np {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #073b4c;
+}
+@media (min-width: 992px) {
+  .cid-scdCwVS6Np .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-scdCwVS6Np .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-scdCwVS6Np .mbr-text {
+  color: #ffffff;
+  text-align: left;
+}

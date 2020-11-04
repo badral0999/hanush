@@ -46,7 +46,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 30,
+    "uniqCompNum": 37,
     "versionPublish": "4.12.1",
     "screenshot": "screenshot.png"
   },
@@ -224,7 +224,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "танилцуулга",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -268,7 +268,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "цагийн менежмент",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -320,7 +320,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "үйлийн үр",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -446,7 +446,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Азын онол ",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -598,7 +598,7 @@
     "hevtriin hun.html": {
       "settings": {
         "meta_descr": "Hevtriin hun kinonii setgegdel",
-        "title": "HEVTRIIN HUN",
+        "title": "Хэвтрийн хүн",
         "order": 1
       },
       "components": [
@@ -658,11 +658,11 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><span style=\"font-size: 1rem;\">\"ХЭВТРИЙН ХҮН\" КИНОГ ҮЗЭЭД...ГЭЖ БОДЛОО.</span></p><p><span style=\"font-size: 1rem;\"> Гайгүй эсвэл  тааруу бүтээл болжээ гэхээсээ илүү уг бүтээл нь дэлгэцийг эзэгнээд байгаа адал явдалт эсвэл  алиа марзан, зовлонт амьдрал, золгүй дурлалын кинонуудаас онцгой ялгарч байгаа нь анзаарагдлаа. Учир нь найруулагч  бүтээлээ бусдад таалуулах зорилгоор бус өөрийн үзэл бодол, байр сууриа нийтэд нээж танилцуулах зорилгоор бүтээжээ.&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Алдарт   Леонардо да Винчиийн  “Арцтай залуу бүсгүйн хөрөг” үе, үеийн  уран зураг сонирхогчдын сонирхлыг татаж маргаан мэтгэлцээнийг төрүүлж байдаг гэж би дээр уншсанаа саналаа... Уг зураг дээрх эмэгтэйг нэг хэсэг нь дур булаам гэж үзэж байхаад нөгөө хэсэг нь дургүй хүрэм зэвүүн нөгөө хэсэг нь бүр нь шулам шиг нэг харахад сайн үйлстэн ахиад харахад бузар үйлстэн мэт харагддаг гэлцдэг. Нэг зургийг хэн харсанаас шалтгаалан ингэж өөр өөрөөр үнэлэгдэж байгаа хэдий ч энэ зураг өнөөдөр дэлхийн уран зургуудын дээжүүдийн нэг гэдэгтэй &nbsp;хэн ч маргахгүй. &nbsp; &nbsp;&nbsp;</span></p><p></p></div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content1-p",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><span style=\"font-size: 1rem;\">“ХЭВТРИЙН ХҮН\"-ИЙ ХЭРЭГ ЮУ ВЭ?</span></p><p><span style=\"font-size: 1rem;\">10-р сарын 19-нд “Улаанбаатар” олон улсын кино наадмын нээлтэнд  оролцож найруулагч С. Бямбын “ Хэвтрийн хүн” киног үзсэн юм.   Гайгүй эсвэл  тааруу бүтээл болжээ гэж бодоогүй хэдий ч ямар ч байсан энэ кино өнөөдөр манай театруудын дэлгэцийг эзэгнээд байгаа адал явдалт эсвэл  алиа марзан, зовлонт амьдрал, золгүй дурлалын кинонуудаас онцгой ялгарч байгаа нь анзаарагдлаа. Ийм төрлийн кинонууд амжилтанд хүрсэн эсэхийг нь хир олон үзэгч үзэв, хир орлого олов гэдгээр нь хэмжиж болдог бол  харин “Хэвтрийн хүн” шиг артхаусын буюу зохиогчийн гэдэг  төрөлд хамаарах кинонуудын хувьд огт өөр юм. Учир нь найруулагч  бүтээлээ бусдад таалуулах зорилгоор бус ертөнц, нийгмийн тухайлсан асуудлаархи өөрийн үзэл бодол, байр суурь, хандах хандлагаа үзэгчдэд нээн харуулж хуваалцах зорилгоор бүтээдэг. &nbsp;\n</span></p><p><span style=\"font-size: 1rem;\">Үзэгч хүн их бага ямар нэгэн хэмжээгээр үзэж байгаа киноны агуулга, дүрслэлийг соргог хүлээж авдаг ба тэд өөрсдийн амьдралын туршлага дээр үндсэлсэн “шүүлтүүр”-ээ ашиглаж үнэн зүйлийг  санаанаасаа зохиосон зүйлээс,  жинхэнийг нь худал хуурмагаас ялгаж хүлээж авч өөрийн дотоодод итгэл төрүүлж чадсан  зүйлийг л оюун ухаандаа “шингээн” боловсруулж явдаг.  Энэ агуулгаараа “Хэвтрийн хүн” кино надад  гүнзгий сэтгэгдэл төрүүлсэн бололтой, 2 долоо хоногийн туршид бодон бодож явж уг зурвасыг бичлээ.\n</span></p><p><span style=\"font-size: 1rem;\">Сайн бүтээл гэдэг нь үзэгчдэд нарийн төвөгтэй, зөрчилтэй мэдрэмжийг  бүр харилцан бие биенээ үгүйсгэсэн мэдрэмжийг нэгэн зэрэг төрүүлдэг онцлогтой гэдэг. &nbsp;</span><br></p><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-r",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
-          "_cid": "seXHodhtHP",
+          "_cid": "seXHsRKFYq",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -724,11 +724,11 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><span style=\"font-size: 1rem;\">Энэ кино артхаус киноны төрөлд хамаарах бөгөөд артхаус киног 3 хэмжээст уран зураг гэж нэрлэх нь бий. &nbsp; &nbsp;</span></p><p><span style=\"font-size: 1rem;\">Киног үзсэний дараа нийтэд зориулсан танилцуулгад байгаа    “27 настай залуу зохиолч болон түүний сүйт бүсгүйтэй холбоотой таван бэсрэг хайрын түүхийг хувь тавилан, он цаг дамнасан хоржоонт ээдрээтэй үйл явдлаар илэрхийлж бидний оршихуйн мөн чанарын тухай өгүүлэх болно” гэдэгтэй би лав санал нийлэхгүй байна.&nbsp;\n</span></p><p><span style=\"font-size: 1rem;\">Надад бол энэ кино манай нийгэмд бугшиж өвчин болоод байгаа залуучуудын үхээнц, бэртэгчин байдлын учир, шалтгааныг гол баатар залуугийн амьдралыг харуулан урлагын хэлээр хэлэхийг хичээсэн санагдсан. </span></p><p><span style=\"font-size: 1rem;\">Сайн бүтээл гэдэг нь үзэгчдэд нарийн төвөгтэй, зөрчилтэй мэдрэмжийг  бүр харилцан бие биенээ үгүйсгэсэн мэдрэмжийг нэгэн зэрэг төрүүлдэг онцлогтой гэдэг. &nbsp;Би “Хэвтрийн хүн”-ийг үзсэн үзэгчид бүгд өөр, өөрийн гэсэн өөр бодол, үнэлэмж, мэдрэмжийг сэтгэлдээ тээж гарч ирэх болно гэдэгт  лав эргэлзэхгүй байна. С.Бямба найруулагчийн &nbsp;үзэгчдэд хүргэхээр зорьсон мэдрэмж тэдэнд уг бүтээлд дэвшүүлсэн асуудлыг шийдэх үйлдэл хийх сэдэц болно. &nbsp;</span></p><p></p></div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content1-r",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><span style=\"font-size: 1rem;\">Алдарт   Леонардо да Винчиийн  “Арцтай залуу бүсгүйн хөрөг” гэдэг зураг үе, үеийн  уран зураг сонирхогчдын сонирхлыг татаж маргаан мэтгэлцээнийг төрүүлж байдаг гэж би дээр уншсанаа саналаа... Уг зураг дээрх эмэгтэйг нэг хэсэг нь дур булаам гэж үзэж байхад нөгөө хэсэг нь дургүй хүрэм зэвүүн нөгөө хэсэг нь бүр нь шулам шиг нэг харахад сайн  ахиад нэг харахад бузар үйлстэн мэт харагддаг гэлцдэг. Энэ  зураг нь хэн харсанаас бус харсан хүн хорвоог “ямар” нүдээр хардагаас нь хамааран ингэж өөр өөрөөр үнэлэгдэж байдаг хэдий ч дэлхийн уран зургуудын дээжийн нэг мөн гэдэгтэй хэн ч маргахгүй. &nbsp; &nbsp;&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Артхаус кино бол 3 хэмжээст уран зураг юм. Тиймээс ч би “Хэвтрийн хүн”-ийг   үзсэн үзэгчид бүгд өөр, өөрийн гэсэн бодол, үнэлэмжийг  тээж гарч ирэх болно гэдэгт  лав эргэлзэхгүй байна.&nbsp;\n</span></p><p><span style=\"font-size: 1rem;\">Кинотеатруудын киноны тухай  нийтэд зориулсан танилцуулгад байгаа    “27 настай залуу зохиолч болон түүний сүйт бүсгүйтэй холбоотой таван бэсрэг хайрын түүхийг хувь тавилан, он цаг дамнасан хоржоонт ээдрээтэй үйл явдлаар илэрхийлж бидний оршихуйн мөн чанарын тухай өгүүлэх болно” гэдэгтэй би лав киног үзсэний дараагаар санал нийлэхгүй байна. &nbsp;</span></p><p><span style=\"font-size: 1rem;\">Надад бол энэ кино гол баатар залуугийн дүрээр манай нийгэмд өргөн тархан бугшиж тахал өвчин болоод байгаа үхээнц, бэртэгчин байдлын учир, шалтгааныг урлагын хэлээр хэлэхийг хичээсэн санагдсан.  Арт хаусаас өөр төрлийн кинонд бол энэ залуу хэрхэн энэ байдлаасаа гарч байгааг яруу тодоор харуулах байсан байх. Харин “Хэвтрийн хүн”-ий тухайд бол өөр.&nbsp;\n</span></p><p><span style=\"font-size: 1rem;\">Өнөөдөр хөгшин залуу гэлтгүй хүмүүсийн сэтгэлгээ хэвтэрийн хүмүүсийн сэтгэлгээнд орчоод байгаа. Хэвтэрийн хүмүүсийн нийтлэг шинж чанар бол өөрсдөө хөдөлмөрлөдөггүй, бэлнийг шаарддаг, бусдаар асруулах, өрөвдүүлэх, аль болох амархан өвчнөөс нь салгах ачтан, шидэт үрэл хүсэмжлэн хайх гээд л олон олон.&nbsp;\n</span></p><p><span style=\"font-size: 1rem;\">Асуудлын үр дагавраас харахад нэг мэт боловч түүнийг буй болгож байгаа хоорондоо “орооцолдсон” ямар олон шалтгаан байгааг  үзэгч бүр дотроо тунгаан бодох бүртээ өөрсдөө “өөрсдийн” мэдрэмжээр олж мэдэх боломжтой юм. С.Бямба найруулагчийн үзэгчдэд хүргэхээр зорьсон мэдрэмж тэдэнд хүрч чадвал уг бүтээлд дэвшүүлсэн асуудлыг цаашид гаргахгүй байх үйлдэл хийх сэдэц болно.&nbsp; \n</span><span style=\"font-size: 1rem;\">Үүнд л энэ киноны ач холбогдол- үр дүн оршиж байна. &nbsp; &nbsp; &nbsp;</span></p><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-p",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
-          "_cid": "seXHsRKFYq",
+          "_cid": "seXHodhtHP",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -790,7 +790,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>С.Бямба найруулагч 2010-12 онд “ Алсын удирдлага” киногоо бүтээж байхад оюутан байсан Төөнөө хүү маань өнөөдөр уг киноны багт орж ажиллаж “хэвтрийн хүн”-йг хэвтэрээс нь босгоход хувь нэмрээ оруулжээ.  Хэхэ,  хүү маань ямар дээл хувцас биш нэг гангараадахъя гэх нь хаашаа юм, энэ завшааныг ашиглаж зургийг нь дээр оруулчихлаа.</p><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>С.Бямба найруулагчийг  “Алсын удирдлага” киногоо бүтээж байхад үзэгч нь байсан манай хүү уг киног бүтээсэн уран бүтээлчдийн багт орж ажиллаж хэвтрийн сэтгэлгээнд яагаад ордогийг &nbsp;харуулах үйлсэд хувь нэмрээ оруулжээ.  Хэхэ,  хүү маань ямар дээл хувцас биш хүүгээрээ нэг гангараадахъя гэх нь хаашаа юм, завшааныг ашиглаж түүний зургийг нь оруулчихлаа. &nbsp; &nbsp;</p><p></p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-t",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -799,6 +799,213 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "meta_descr": "Hevtriin hun kinonii setgegdel",
+        "title": "Хэвтрийн хүн",
+        "order": 2
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "background": "@bgColor",
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(0deg, @color2, @bgColor)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image3",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Полная ширина\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Текст\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Ширина\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"63\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Градиент\" name=\"gradientBg\" checked condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Цвет 2\" name=\"color2\" value=\"#ffffff\" condition=\"gradientBg && fullWidth==false\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/hevtriin-hu-1-371x400.png\" width=\"1400\" alt=\"Mobirise\" title>\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                        Создавайте потрясающие сайты!\n                    </div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "sflcHg7PRX",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "image3-u"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><span style=\"font-size: 1rem;\">\"ХЭВТРИЙН ХҮН\" КИНОГ ҮЗЭЭД...ГЭЖ БОДЛОО.</span></p><p><span style=\"font-size: 1rem;\"> Гайгүй эсвэл  тааруу бүтээл болжээ гэхээсээ илүү уг бүтээл нь дэлгэцийг эзэгнээд байгаа адал явдалт эсвэл  алиа марзан, зовлонт амьдрал, золгүй дурлалын кинонуудаас онцгой ялгарч байгаа нь анзаарагдлаа. Учир нь найруулагч  бүтээлээ бусдад таалуулах зорилгоор бус өөрийн үзэл бодол, байр сууриа нийтэд нээж танилцуулах зорилгоор бүтээжээ.&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Алдарт   Леонардо да Винчиийн  “Арцтай залуу бүсгүйн хөрөг” үе, үеийн  уран зураг сонирхогчдын сонирхлыг татаж маргаан мэтгэлцээнийг төрүүлж байдаг гэж би дээр уншсанаа саналаа... Уг зураг дээрх эмэгтэйг нэг хэсэг нь дур булаам гэж үзэж байхаад нөгөө хэсэг нь дургүй хүрэм зэвүүн нөгөө хэсэг нь бүр нь шулам шиг нэг харахад сайн үйлстэн ахиад харахад бузар үйлстэн мэт харагддаг гэлцдэг. Нэг зургийг хэн харсанаас шалтгаалан ингэж өөр өөрөөр үнэлэгдэж байгаа хэдий ч энэ зураг өнөөдөр дэлхийн уран зургуудын дээжүүдийн нэг гэдэгтэй &nbsp;хэн ч маргахгүй. &nbsp; &nbsp;&nbsp;</span></p><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "sflcHhfvPu",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-v"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "background": "@bgColor",
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(0deg, @color2, @bgColor)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image3",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Полная ширина\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Текст\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Ширина\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"63\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Градиент\" name=\"gradientBg\" checked condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Цвет 2\" name=\"color2\" value=\"#ffffff\" condition=\"gradientBg && fullWidth==false\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/-1-351x366.png\" width=\"1400\" alt=\"Mobirise\" title>\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                        Создавайте потрясающие сайты!\n                    </div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "sflcHhFxWF",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "image3-w"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><span style=\"font-size: 1rem;\">Энэ кино артхаус киноны төрөлд хамаарах бөгөөд артхаус киног 3 хэмжээст уран зураг гэж нэрлэх нь бий. &nbsp; &nbsp;</span></p><p><span style=\"font-size: 1rem;\">Киног үзсэний дараа нийтэд зориулсан танилцуулгад байгаа    “27 настай залуу зохиолч болон түүний сүйт бүсгүйтэй холбоотой таван бэсрэг хайрын түүхийг хувь тавилан, он цаг дамнасан хоржоонт ээдрээтэй үйл явдлаар илэрхийлж бидний оршихуйн мөн чанарын тухай өгүүлэх болно” гэдэгтэй би лав санал нийлэхгүй байна.&nbsp;\n</span></p><p><span style=\"font-size: 1rem;\">Надад бол энэ кино манай нийгэмд бугшиж өвчин болоод байгаа залуучуудын үхээнц, бэртэгчин байдлын учир, шалтгааныг гол баатар залуугийн амьдралыг харуулан урлагын хэлээр хэлэхийг хичээсэн санагдсан. </span></p><p><span style=\"font-size: 1rem;\">Сайн бүтээл гэдэг нь үзэгчдэд нарийн төвөгтэй, зөрчилтэй мэдрэмжийг  бүр харилцан бие биенээ үгүйсгэсэн мэдрэмжийг нэгэн зэрэг төрүүлдэг онцлогтой гэдэг. &nbsp;Би “Хэвтрийн хүн”-ийг үзсэн үзэгчид бүгд өөр, өөрийн гэсэн өөр бодол, үнэлэмж, мэдрэмжийг сэтгэлдээ тээж гарч ирэх болно гэдэгт  лав эргэлзэхгүй байна. С.Бямба найруулагчийн &nbsp;үзэгчдэд хүргэхээр зорьсон мэдрэмж тэдэнд уг бүтээлд дэвшүүлсэн асуудлыг шийдэх үйлдэл хийх сэдэц болно. &nbsp;</span></p><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "sflcHi6BkQ",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-x"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "background": "@bgColor",
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(0deg, @color2, @bgColor)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image3",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Полная ширина\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Текст\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Ширина\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"63\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Градиент\" name=\"gradientBg\" checked condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Цвет 2\" name=\"color2\" value=\"#ffffff\" condition=\"gradientBg && fullWidth==false\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/tuunuu-969x610.png\" width=\"1400\" alt=\"Mobirise\" title>\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                        Создавайте потрясающие сайты!\n                    </div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "sflcHiGFOR",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "image3-y"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>С.Бямба найруулагч 2010-12 онд “ Алсын удирдлага” киногоо бүтээж байхад оюутан байсан Төөнөө хүү маань өнөөдөр уг киноны багт орж ажиллаж “хэвтрийн хүн”-йг хэвтэрээс нь босгоход хувь нэмрээ оруулжээ.  Хэхэ,  хүү маань ямар дээл хувцас биш нэг гангараадахъя гэх нь хаашаа юм, энэ завшааныг ашиглаж зургийг нь дээр оруулчихлаа.</p><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "sflcHj3SRf",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-z"
         }
       ]
     }

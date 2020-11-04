@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "hanush",
-    "currentPage": "hevtriin hun.html",
+    "currentPage": "сэтгэлгээний хоцрогдлын шалтгаан.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -802,10 +802,10 @@
         }
       ]
     },
-    "page6.html": {
+    "сэтгэлгээний хоцрогдлын шалтгаан.html": {
       "settings": {
-        "meta_descr": "Hevtriin hun kinonii setgegdel",
-        "title": "Хэвтрийн хүн",
+        "meta_descr": "",
+        "title": "\"ХЭВТРИЙН ХҮН\"-ИЙ ХЭРЭГ ЮУ ВЭ?",
         "order": 2
       },
       "components": [

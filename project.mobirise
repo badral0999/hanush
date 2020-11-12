@@ -49,7 +49,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 31,
+    "uniqCompNum": 32,
     "versionPublish": "4.12.1",
     "screenshot": "screenshot.png"
   },
